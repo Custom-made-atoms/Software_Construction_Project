@@ -1,0 +1,21 @@
+Student_ID,Name,Age,Gender,Major,GPA,Attendance_Percentage,Test_Score,Enrollment_Status
+1,John Doe,20,Male,Computer Science,3.4,85,78,Full-Time
+2,Jane Smith,21,Female,Mathematics,3.8,92,,Part-Time
+3,Alex Chen,19,Male,Physics,3.2,88,82,Full-Time
+4,Maria Garcia,22,Female,Biology,3.5,75,91,Full-Time
+5,David Kim,20,Male,Computer Science,,78,65,Part-Time
+6,Sarah Wilson,21,Female,Mathematics,3.9,95,88,Full-Time
+7,James Brown,19,Male,Biology,2.9,70,72,Full-Time
+8,Emily Davis,20,Female,Physics,3.6,89,85,Part-Time
+9,Michael Lee,22,Male,Computer Science,3.1,82,77,Full-Time
+10,Olivia Taylor,21,Female,Mathematics,3.7,93,94,Part-Time
+11,Ethan Moore,20,Male,Biology,3.3,84,80,Full-Time
+12,Sophia Clark,19,Female,Computer Science,3.5,91,89,Full-Time
+13,Daniel Adams,21,Male,Physics,3.0,79,73,Part-Time
+14,Emma Martinez,20,Female,Biology,3.4,87,84,Full-Time
+15,Liam Wilson,22,Male,Mathematics,3.8,96,,Full-Time
+16,Ava Anderson,19,Female,Computer Science,3.2,83,81,Part-Time
+17,Noah Thomas,20,Male,Physics,3.5,90,87,Full-Time
+18,Isabella White,21,Female,Biology,3.1,80,76,Part-Time
+19,Lucas Hall,19,Male,Mathematics,3.6,94,92,Full-Time
+20,Mia Green,20,Female,Computer Science,3.7,89,88,Full-Time
